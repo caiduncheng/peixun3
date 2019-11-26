@@ -12,6 +12,12 @@
 
 按照分隔符分开后把输入的内容保存到数组中，过滤掉空的和重复的内容，在按钮显示处理后的爱好。
 
+![image](https://github.com/caiduncheng/peixun3/blob/master/img/image-20191126002106375.png?raw=true)
+
+![image](https://github.com/caiduncheng/peixun3/blob/master/img/image-20191126002153992.png?raw=true)
+
+
+
 ### 练习2
 
 实现一个倒计时功能。
@@ -26,13 +32,19 @@
 
 - 如果时差为0，停止倒计时
 
+  ![image](https://github.com/caiduncheng/peixun3/blob/master/img/image-20191126092331485.png?raw=true)
+
 ### 练习3
 
 做一个轮播图，要求：
 
 - 可以更改轮播的配置，顺序（正序、逆序）、间隔、是否循环
+
 - 图片切换要流畅
+
 - 轮播图下方自动生成对应图片的小点，点击小点，轮播图切换到对应的图片
+
+  ![image](https://github.com/caiduncheng/peixun3/blob/master/img/image-20191126091530819.png?raw=true)
 
 ### 练习4
 
